@@ -1,0 +1,1647 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 615 (ID=0x591c)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 615 (ID=0x591c)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Pentrlatforks School District\GamSs\Clusthinde.A049\OneDrive - Central Bed\ks School Di.dll (this message is harmleluss)
+truckLoata\Managed\eObjReader.dll (this message is harmless)
+chool District\Games\Cinde.ertruck\ClustertrucktraltBa\Managed\Unitstrict\Gamll into Unity Chillds Domain
+_Data\Managed\ObjReader.dll into Unity Child Domain
+- Completed reload, in  4.447 seconds
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll into Unity Child Domain
+- Completed reload, in  0.225 seconds
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 615 (ID=0x591c)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll into Unity Child Domain
+- Completed reload, in  0.961 seconds
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 615 (ID=0x591c)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll into Unity Child Domain
+- Completed reload, in  0.426 seconds
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.Core.dll (this message is harmless)
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Platfort asskmbClustertruck\Shitde\Man.A049\Ostem.dll (this message is harmless)ict\Games\Clustertruck\Clustertruck_Data\Managed\System.dll (this message is harmless)
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 615 (ID=0x591c)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 615 (ID=0x591c)
+    Vendor:   Intel
+    VRAM:     2111 MB
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initializing input.
+XInput1_3.dll<nRI> Initi Trizing XInput9_1
+_0.dll instead...
+<RI>XInput in3.dll notd.
+und. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_DataPMlnageorm assonsoly: Co:\dll intohindity ChilOneDride -omainra
+l Bucks School District\Games\Clustertruck\ClustertPlatfoam assemta\Managed\Assembly-CSharp-firsbply: dll (ters\Shinde.A049\Onemlessv
+eLoading C:\Users\Shinde.ntral Bucks School District\Games\Clustertruck\Clustertruck_Data\ManagOneAmplifyCoDrove - Cen.ral Bdcls S (tol Distsiage ises\Clmletertr
+uckLoauster rC:\Users\Sanaged.Ass9\mnblriveSh- arp-firstpass.dll in Distnity Child Domain
+rtruck\Clustertruck_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assemblP: latforrs assembly: C:\Users\Shinde.A049\Oncks School Diral Bt\Gas Scholusterorl Districu\ckmes\Clusteruckr_ck\Dlusteraruck_Data\MaAssgmbl\y-bjReap.drl (th (this msesessage gs hareless)
+ harmless)C:\Uoaering C:\UserA0Shi\One.DA04ve - Centre - Cents Schoucks School District\Games\Clustertrurtruck_Dtertruck_Dd\Assembly-dCShjReader. into Unity Chil UnitayiChi
+ld Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Platlerm asstmble: re C:\Usde s\Siinde.A0n9\ 0.631 seconds
+neDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll into Unity Child Domain
+- Completed reload, in  0.599 seconds
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.dll (this message is harmless)
+<RI> Initialized touch support.
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 615 (ID=0x591c)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll (this message is harmless)
+Loading C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\ObjReader.dll into Unity Child Domain
+- Completed reload, in  1.409 seconds
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shinde.A049\OneDrive - Central Bucks School District\Games\Clustertruck\Clustertruck_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 12.709800 ms
+DRM FREE BUILD:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Completed Levels Updated! 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Default Color: FFFFFF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Singleton] Using instance already created: MaterialHolder
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: Blue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: LightBlue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: Orange
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: Fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: Night
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: Purple
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: Borealis
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingSkyBox: Dark
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingTerrain: Empty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingTerrain: Tan
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingTerrain: Green
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingTerrain: Red
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingTerrain: Blue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+AddingTerrain: Violet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+InControl (version 1.5.12 build 6556)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Connect: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4568 -> priority: 1 
+hello?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GameObject is already being activated or deactivated.
+ 
+(Filename:  Line: 172)
+
+Playing Ghost From Leaderboard: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Flushing all ghosts!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Singleton] Using instance already created: SteamStatsAndAchievements
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 363
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 484
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Awake, Playtesting = false484
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Singleton] An instance of DataRecorder is needed in the scene, so '(singleton) DataRecorder (UnityEngine.GameObject)' was created with DontDestroyOnLoad.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 484
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 484
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+[Singleton] An instance of RecordedDataPrefabPlayer is needed in the scene, so '(singleton) RecordedDataPrefabPlayer (UnityEngine.GameObject)' was created with DontDestroyOnLoad.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 484
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SetRenderCamera.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+[Singleton] Using instance already created: TwitchIRC
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TwitchIrc.Send (System.String message) [0x00000] in <filename unknown>:0 
+  at TwitchIrc.Message (System.String message) [0x00000] in <filename unknown>:0 
+  at LandfallTwitch.MessageSend (System.String message) [0x00000] in <filename unknown>:0 
+  at LandfallTwitch.StartVoting () [0x00000] in <filename unknown>:0 
+  at VoteHandler.StartVote () [0x00000] in <filename unknown>:0 
+  at VoteHandler.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Started Recording: 485
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 501
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 501
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 501
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 518
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 518
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 518
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 566
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 566
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 566
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 609
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 609
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 609
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 629
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 629
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 629
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 650
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 650
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 650
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 673
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 673
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 673
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 704
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 704
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 704
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 723
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 723
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 723
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TwitchIrc.Send (System.String message) [0x00000] in <filename unknown>:0 
+  at TwitchIrc.Message (System.String message) [0x00000] in <filename unknown>:0 
+  at LandfallTwitch.MessageSend (System.String message) [0x00000] in <filename unknown>:0 
+  at LandfallTwitch.StartVoting () [0x00000] in <filename unknown>:0 
+  at VoteHandler.StartVote () [0x00000] in <filename unknown>:0 
+  at VoteHandler.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 739
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 739
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 739
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 771
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 771
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 771
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 793
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 793
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 793
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Restart Called: RyssHax: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Stopped Recording : 813
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Clearing level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Level cleared!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RESTART: Playing Normal Map: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+CURRENTLEVEL CHANGHED: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+OnStatsUpdated: Frame: 813
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enable After Frame Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Loading Level: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Started Recording: 813
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No transmitters
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Utility Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+No Movement Ability Helptext
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cleaning Helpstrings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Helpme init == false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Resetting PLayer: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Reseted Maptime: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Added Player Transmitter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FirstPackage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Destroyed: Playtesting = false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
